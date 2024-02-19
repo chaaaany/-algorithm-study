@@ -1,4 +1,4 @@
-#24-01-13
+#24-01-13 SAT
 import itertools
 def solution(nums):
     answer = 0

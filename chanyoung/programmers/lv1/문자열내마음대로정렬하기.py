@@ -1,4 +1,4 @@
-#24-01-13
+#24-01-13 SAT
 def solution(strings, n):
     return sorted(strings, key = lambda x:(x[n], x))
 
