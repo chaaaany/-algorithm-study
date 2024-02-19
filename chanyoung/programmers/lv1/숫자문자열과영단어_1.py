@@ -1,4 +1,4 @@
-#24-01-13
+#24-01-13 SAT
 #기존코드
 def solution(s):
     result = ''

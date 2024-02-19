@@ -1,4 +1,4 @@
-#24-01-13
+#24-01-13 SAT
 def solution(s):
     answer = []
     for i in range(len(s)) : 

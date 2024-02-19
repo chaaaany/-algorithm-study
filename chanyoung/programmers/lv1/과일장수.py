@@ -1,4 +1,4 @@
-#24-01-13
+#24-01-13 SAT
 def solution(k, m, score):
     score.sort(reverse = True)
     answer = 0
